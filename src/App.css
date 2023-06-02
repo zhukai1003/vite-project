@@ -1,0 +1,13 @@
+.app{
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  overflow-x: hidden;
+}
+.left{
+  width: 300px;
+}
+.right{
+  flex: 1;
+}
